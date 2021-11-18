@@ -53,9 +53,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align='left' alt="MichaelBHerman's Github Stats"> src="https://github-readme-stats.vercel.app/api?username=MichaelBHerman&show_icons=true&theme=radical"/>
+ 
 
 </details>
+  <img align='left' alt="MichaelBHerman's Github Stats"> src = "https://github-readme-stats.vercel.app/api?username=MichaelBHerman&show_icons=true&theme=radical"/>
 
 [website]: 
 [twitter]: 
